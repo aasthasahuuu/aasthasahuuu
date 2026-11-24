@@ -15,8 +15,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=f9e2af)
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=cba6f7)
 
-### What I will learn in future
-
+### What I might learn in future
+<!-- everything what my hb told me, idk -->
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=flat-square&logo=nodedotjs&logoColor=a6e3a1)
 ![Go](https://img.shields.io/badge/Golang-1e1e2e?style=flat-square&logo=go&logoColor=94e2d5)
 ![Vue.js](https://img.shields.io/badge/Vue.js-1e1e2e?style=flat-square&logo=vuedotjs&logoColor=a6e3a1)
